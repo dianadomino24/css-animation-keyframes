@@ -18,8 +18,6 @@ https://dianadomino24.github.io/css-animation-keyframes/
 
 ## :rocket: Technologies
 
--   **JavaScript ES6** - Promises, setTimeOut.
-
 -   semantic **HTML5**, styles - **CSS3** including Flexbox.
 
 -   CSS-animation by using keyframes.
